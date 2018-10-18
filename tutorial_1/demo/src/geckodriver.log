@@ -1,0 +1,262 @@
+1539139622324	geckodriver	INFO	geckodriver 0.21.0
+1539139622402	geckodriver	INFO	Listening on 127.0.0.1:49770
+1539139625292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.t4F1CIdrEkK6"
+1539139632820	Marionette	INFO	Listening on port 49779
+1539139633221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539139633260	Marionette	DEBUG	[4294967297] Frame script loaded
+1539139633263	Marionette	DEBUG	[4294967297] Frame script registered
+1539139633542	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539139634338	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539139638622	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+[Parent 7368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539139658921	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.yahoo.com/
+1539139663945	Marionette	INFO	Stopped listening on port 49779
+[Parent 7368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539139677991	geckodriver	INFO	geckodriver 0.21.0
+1539139678007	geckodriver	INFO	Listening on 127.0.0.1:49960
+1539139681054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.eUPMrxTGcn4v"
+1539139684343	Marionette	INFO	Listening on port 49968
+1539139684371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539139684427	Marionette	DEBUG	[6442450945] Frame script loaded
+1539139684434	Marionette	DEBUG	[6442450945] Frame script registered
+1539139684506	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539139685402	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539139690665	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+1539139694443	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539139696635	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1539139697643	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539139698196	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+1539139698204	Marionette	INFO	Stopped listening on port 49968
+[Parent 9672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 564, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539140362436	geckodriver	INFO	geckodriver 0.21.0
+1539140362436	geckodriver	INFO	Listening on 127.0.0.1:50193
+1539140365444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.hz7KZXmKSAKl"
+1539140369265	Marionette	INFO	Listening on port 50201
+1539140369365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539140369407	Marionette	DEBUG	[6442450945] Frame script loaded
+1539140369409	Marionette	DEBUG	[6442450945] Frame script registered
+1539140369440	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539140370596	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539140372155	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+1539140387155	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+[Child 2884, Chrome[Parent 5948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539140551378	Marionette	INFO	Stopped listening on port 50201
+[GPU 8336, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4C0004,name=PImageBr1539140552341	Marionette	INFO	Listening on port 50473
+1539140552447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539140552488	Marionette	DEBUG	[6442450945] Frame script loaded
+1539140552490	Marionette	DEBUG	[6442450945] Frame script registered
+1539140552508	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539140553570	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539140555699	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+[Parent 11952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539140559334	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539140559448	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539140561274	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539140561279	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539140562418	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+[Parent 11952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1539140583246	Marionette	INFO	Stopped listening on port 50473
+[GPU 4660, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539140592160	geckodriver	INFO	geckodriver 0.21.0
+1539140592160	geckodriver	INFO	Listening on 127.0.0.1:50659
+1539140595169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.L6UiEGeEN0iQ"
+1539140599099	Marionette	INFO	Listening on port 50667
+1539140599550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539140599591	Marionette	DEBUG	[6442450945] Frame script loaded
+1539140599593	Marionette	DEBUG	[6442450945] Frame script registered
+1539140599746	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539140600738	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539140602194	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+[Parent 11524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539140604842	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539140605667	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539140606036	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+[Parent 11524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539140626177	Marionette	INFO	Stopped listening on port 50667
+[GPU 11732, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539140701109	geckodriver	INFO	geckodriver 0.21.0
+1539140701125	geckodriver	INFO	Listening on 127.0.0.1:50831
+1539140704141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.IE99AKDrTgUB"
+1539140707996	Marionette	INFO	Listening on port 50839
+1539140708053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539140708098	Marionette	DEBUG	[6442450945] Frame script loaded
+1539140708100	Marionette	DEBUG	[6442450945] Frame script registered
+1539140708120	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539140709148	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539140710860	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+1539140714519	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539140715520	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539140715909	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+[Parent 8516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539140766252	Marionette	INFO	Stopped listening on port 50839
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539140987543	geckodriver	INFO	geckodriver 0.21.0
+1539140987549	geckodriver	INFO	Listening on 127.0.0.1:51060
+1539140990560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.86cSEHzURYY3"
+1539140996114	Marionette	INFO	Listening on port 51068
+1539140996207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539140996244	Marionette	DEBUG	[6442450945] Frame script loaded
+1539140996246	Marionette	DEBUG	[6442450945] Frame script registered
+1539140996261	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539140996941	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539140998974	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+[Parent 1212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539141002534	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450959
+1539141003840	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539141004451	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+1539141005082	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yahoo.com/
+1539141005122	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450967
+1539141005123	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450969
+1539141005123	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1539141005124	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450973
+1539141005301	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yahoo.com/
+1539141005305	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yahoo.com/
+JavaScript error: https://choices.trustarc.com/ca?aid=tradedesk01&pid=tradedesk01&cid=fgps9pz_wx8gpk1_aqa5req1&w=300&h=250&c=tradedesk01cont1&js=pmw2, line 115: TypeError: k.contentWindow is null
+1539141005449	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539141005450	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1539141005451	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539141005452	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450961
+1539141005453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539141005453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539141005453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539141005664	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://search.yahoo.com/search?p=danika+mori&fr=yfp-t&fp=1&toggle=1&cop=mss&ei=UTF-8
+[Parent 1212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539141006186	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://search.yahoo.com/search?p=danika+mori&fr=yfp-t&fp=1&toggle=1&cop=mss&ei=UTF-8
+1539141011223	Marionette	INFO	Stopped listening on port 51068
+[Child 1752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 1212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 656, Chrome_ChildThread] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539141015739	geckodriver	INFO	geckodriver 0.21.0
+1539141015756	geckodriver	INFO	Listening on 127.0.0.1:51183
+1539141018777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DANASC~1\\AppData\\Local\\Temp\\rust_mozprofile.cIP2QtlaEfHU"
+1539141023730	Marionette	INFO	Listening on port 51191
+1539141023827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539141023876	Marionette	DEBUG	[6442450945] Frame script loaded
+1539141023879	Marionette	DEBUG	[6442450945] Frame script registered
+1539141023898	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539141024912	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539141026264	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.yahoo.com/
+1539141028609	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539141029541	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1539141029738	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.yahoo.com/
+1539141030303	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.yahoo.com/
+1539141030417	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450976
+1539141030418	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450978
+1539141030418	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450980
+1539141030419	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539141030420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539141030420	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539141030421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539141030421	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1539141030613	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.yahoo.com/
+1539141030616	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.yahoo.com/
+1539141030778	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539141030779	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450952
+1539141030780	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450950
+1539141030781	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539141030782	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539141030783	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450963
+1539141030783	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539141031192	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://search.yahoo.com/search?p=danika+mori&fr=yfp-t&fp=1&toggle=1&cop=mss&ei=UTF-8
+1539141031518	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://search.yahoo.com/search?p=danika+mori&fr=yfp-t&fp=1&toggle=1&cop=mss&ei=UTF-8
+[Parent 8812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539141036535	Marionette	INFO	Stopped listening on port 51191
+[Parent 8812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 844, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
