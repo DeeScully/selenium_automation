@@ -529,3 +529,143 @@
 [GPU 1088, Chrome_Ch
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1540244234104	geckodriver	INFO	geckodriver 0.20.0
+1540244234137	geckodriver	INFO	Listening on 127.0.0.1:64154
+1540244237129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\waichu\\AppData\\Local\\Temp\\rust_mozprofile.MFui1qHvmIIC"
+1540244240650	Marionette	INFO	Listening on port 64162
+1540244240924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540244241064	Marionette	DEBUG	[6442450945] Frame script loaded
+1540244241105	Marionette	DEBUG	[6442450945] Frame script registered
+1540244241190	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540244245061	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540244246324	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/
+1540244247043	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/
+1540244247345	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://qaboy.com/
+1540244248697	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://qaboy.com/
+1540244248702	Marionette	DEBUG	[6442450945] Received DOM event unload for https://qaboy.com/
+1540244250151	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1540244250160	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/about-me/
+1540244250330	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/about-me/
+1540244250790	Marionette	INFO	Stopped listening on port 64162
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540244251507	geckodriver::marionette	ERROR	Failed to stop browser process
+1540244251887	geckodriver	INFO	geckodriver 0.20.0
+1540244251897	geckodriver	INFO	Listening on 127.0.0.1:64243
+1540244254907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\waichu\\AppData\\Local\\Temp\\rust_mozprofile.zRGTQgewVcnR"
+1540244258057	Marionette	INFO	Listening on port 64251
+1540244258556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540244258582	Marionette	DEBUG	[6442450945] Frame script loaded
+1540244258602	Marionette	DEBUG	[6442450945] Frame script registered
+1540244258642	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540244260512	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540244261882	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/
+1540244262541	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/
+1540244262566	Marionette	INFO	Stopped listening on port 64251
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13564, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540244263317	geckodriver::marionette	ERROR	Failed to stop browser process
+1540244263627	geckodriver	INFO	geckodriver 0.20.0
+1540244263637	geckodriver	INFO	Listening on 127.0.0.1:64311
+1540244266637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\waichu\\AppData\\Local\\Temp\\rust_mozprofile.lO8sHkIQEAJ9"
+1540244269807	Marionette	INFO	Listening on port 64319
+1540244269903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540244270016	Marionette	DEBUG	[6442450945] Frame script loaded
+1540244270039	Marionette	DEBUG	[6442450945] Frame script registered
+1540244270095	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540244271558	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540244271559	Marionette	DEBUG	[6442450945] Received DOM event unload for about:blank
+1540244272594	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/
+1540244273828	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/
+1540244273841	Marionette	INFO	Stopped listening on port 64319
+[Parent 13356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13356, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 14116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540244274589	geckodriver::marionette	ERROR	Failed to stop browser process
+1540244274899	geckodriver	INFO	geckodriver 0.20.0
+1540244274919	geckodriver	INFO	Listening on 127.0.0.1:64380
+1540244277909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\waichu\\AppData\\Local\\Temp\\rust_mozprofile.f4Sqlve1bsYB"
+1540244281300	Marionette	INFO	Listening on port 64388
+1540244281624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540244281663	Marionette	DEBUG	[6442450945] Frame script loaded
+1540244281683	Marionette	DEBUG	[6442450945] Frame script registered
+1540244281724	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540244283300	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540244284398	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/
+1540244285032	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/
+1540244285052	Marionette	INFO	Stopped listening on port 64388
+[Parent 13824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540244285785	geckodriver::marionette	ERROR	Failed to stop browser process
+1540244286105	geckodriver	INFO	geckodriver 0.20.0
+1540244286125	geckodriver	INFO	Listening on 127.0.0.1:64448
+1540244289095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\waichu\\AppData\\Local\\Temp\\rust_mozprofile.ek1SD0IbNwDG"
+1540244292010	Marionette	INFO	Listening on port 64456
+1540244292290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540244292435	Marionette	DEBUG	[6442450945] Frame script loaded
+1540244292457	Marionette	DEBUG	[6442450945] Frame script registered
+1540244292521	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540244294560	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540244295701	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/
+1540244296725	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/
+1540244297051	Marionette	INFO	Stopped listening on port 64456
+[Child 14024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540244297776	geckodriver::marionette	ERROR	Failed to stop browser process
+1540244298126	geckodriver	INFO	geckodriver 0.20.0
+1540244298127	geckodriver	INFO	Listening on 127.0.0.1:64529
+1540244301118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\waichu\\AppData\\Local\\Temp\\rust_mozprofile.tp02rPYRhMpc"
+1540244304376	Marionette	INFO	Listening on port 64537
+1540244304808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540244304861	Marionette	DEBUG	[6442450945] Frame script loaded
+1540244304882	Marionette	DEBUG	[6442450945] Frame script registered
+1540244304940	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540244306730	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540244307747	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://qaboy.com/
+1540244308421	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://qaboy.com/
+1540244308440	Marionette	INFO	Stopped listening on port 64537
+[Parent 13720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540244309211	geckodriver::marionette	ERROR	Failed to stop browser process
