@@ -3,7 +3,9 @@ from webdriver import Driver
 from values import strings
 from pageobjects.homescreen import HomeScreen
 from pageobjects.aboutscreen import AboutScreen
-
+from pageobjects.sidebar import SideBar
+from pageobjects.searchscreen import SearchScreen
+from pageobjects.postscreen import PostScreen
 
 class TestQaBoy(unittest.TestCase):
 
@@ -33,23 +35,25 @@ class TestQaBoy(unittest.TestCase):
 
 
     def test_search_for_article(self):
-        sidebar = Sidebar(self.driver)
+        sidebar = SideBar(self.driver)
         sidebar.search_for_article(strings.article_title)
 
-        # search_screen = SearchScreen(self.driver)
-        # search_screen.click_article(strings.article_title)
-        #
-        # post_screen = PostScreen(self.driver)
-        # post_screen.validate_article_title(strings.article_title)
+        search_screen = SearchScreen(self.driver)
+        search_screen.click_article(strings.article_title)
+
+        post_screen = PostScreen(self.driver)
+        post_screen.validate_article_title(strings.article_title)
 
     def test_check_user_comments(self):
         pass
 
     def test_archived_articles(self):
-        pass
+        sidebar = SideBar(self.driver)
+        sidebar.click_archive()
 
     def test_article_categories(self):
-        pass
+        sidebar = SideBar(self.driver)
+        sidebar.click_category()
 
 
     def tearDown(self):
