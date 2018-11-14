@@ -34,26 +34,26 @@ class TestQaBoy(unittest.TestCase):
         about_screen.validate_about_me_post()
 
 
-    def test_search_for_article(self):
-        sidebar = SideBar(self.driver)
-        sidebar.search_for_article(strings.article_title)
-
-        search_screen = SearchScreen(self.driver)
-        search_screen.click_article(strings.article_title)
-
-        post_screen = PostScreen(self.driver)
-        post_screen.validate_article_title(strings.article_title)
-
-    def test_check_user_comments(self):
-        pass
-
-    def test_archived_articles(self):
-        sidebar = SideBar(self.driver)
-        sidebar.click_archive()
-
-    def test_article_categories(self):
-        sidebar = SideBar(self.driver)
-        sidebar.click_category()
+    # def test_search_for_article(self):
+    #     sidebar = SideBar(self.driver)
+    #     sidebar.search_for_article(strings.article_title)
+    #
+    #     search_screen = SearchScreen(self.driver)
+    #     search_screen.click_article(strings.article_title)
+    #
+    #     post_screen = PostScreen(self.driver)
+    #     post_screen.validate_article_title(strings.article_title)
+    #
+    # def test_check_user_comments(self):
+    #     pass
+    #
+    # def test_archived_articles(self):
+    #     sidebar = SideBar(self.driver)
+    #     sidebar.click_archive()
+    #
+    # def test_article_categories(self):
+    #     sidebar = SideBar(self.driver)
+    #     sidebar.click_category()
 
 
     def tearDown(self):

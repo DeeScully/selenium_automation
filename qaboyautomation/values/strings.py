@@ -1,2 +1,2 @@
-base_url = 'http://qaboy.com/'
+base_url = 'https://qaboy.com/'
 article_title = 'python automation'
