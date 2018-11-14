@@ -11,7 +11,7 @@ class TestSauceDemo(unittest.TestCase):
 
     def test_log_in_screen(self):
         log_in_screen = LogInScreen(self.driver)
-        log_in_screen.log_in_proper_creds()
+        # log_in_screen.log_in_proper_creds()
         log_in_screen.log_in_improper_user_name()
 
 
