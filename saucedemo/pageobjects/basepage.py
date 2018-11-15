@@ -9,3 +9,4 @@ class BasePage:
     def validate_hamburger_present(self):
         hamburger = WebDriverWait(self.driver.instance, 10).until(EC.visibility_of_element_located((By.XPATH, ".//button[contains(text(), 'Open Menu')]")))
         assert hamburger.is_displayed()
+    #
