@@ -15,11 +15,11 @@ class LogInScreen(BasePage):
         self.title = WebDriverWait(self.driver.instance, 10).until(
             EC.visibility_of_element_located((
                 By.TAG_NAME, "title")))
-        self.user_name_field = self.user_comment = WebDriverWait(self.driver.instance, 10).until(
+        self.user_name_field = WebDriverWait(self.driver.instance, 10).until(
             EC.visibility_of_element_located((By.XPATH, ".//input[@data-test = 'username']")))
-        self.password_field = self.user_comment = WebDriverWait(self.driver.instance, 10).until(
+        self.password_field = WebDriverWait(self.driver.instance, 10).until(
             EC.visibility_of_element_located((By.XPATH, ".//input[@data-test = 'password']")))
-        self.login_btn = self.user_comment = WebDriverWait(self.driver.instance, 10).until(
+        self.login_btn = WebDriverWait(self.driver.instance, 10).until(
             EC.visibility_of_element_located((By.XPATH, ".//input[@class = 'login-button']")))
 
     def log_in_error_msg(self):
@@ -30,9 +30,10 @@ class LogInScreen(BasePage):
 
     @allure.step('Log in with proper creds')
     def log_in_proper_creds(self):
-        self.user_name_field.send_keys(strings.user_name)
-        self.password_field.send_keys(strings.password)
-        self.login_btn.click()
+            self.password_field.send_keys(strings.password)
+            self.login_btn.click()
+            self.user_name_field.send_keys(strings.user_name)
+
 
 
 

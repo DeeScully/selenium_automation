@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a140fa-3287-4509-9c3e-d8f9a9c14995" name="Default Changelist" comment="" />
+    <list default="true" id="76a140fa-3287-4509-9c3e-d8f9a9c14995" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/.idea/vrap_smoke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/pageobjects/tflx/loginscreen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/testcases/smoke_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/values/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vrap_smoke/webdriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobjects/loginscreen.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobjects/loginscreen.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,35 +24,42 @@
     <session id="444531398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Pipfile" value="1" />
+          <entry key="lock" value="1" />
           <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="5" />
+          <entry key="TOML file" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="72" />
-          <entry key="py" value="2047" />
-          <entry key="txt" value="40" />
+          <entry key="Python Console" value="323" />
+          <entry key="py" value="2093" />
+          <entry key="txt" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="40" />
-          <entry key="Python" value="2119" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Python" value="2416" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -55,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webdriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state>
+              <caret selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -64,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/test_saucedemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
                 <marker date="1542221219899" expanded="true" signature="160:504" ph="..." />
@@ -76,38 +95,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pageobjects/loginscreen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="391">
+              <caret line="26" column="86" lean-forward="true" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
-                <marker date="1542230273286" expanded="true" signature="308:309" ph="..." />
-                <marker date="1542230273286" expanded="true" signature="308:314" ph="..." />
-                <marker date="1542230273286" expanded="true" signature="1130:1384" ph="..." />
+                <marker date="1542747415783" expanded="true" signature="308:309" ph="..." />
+                <marker date="1542747415783" expanded="true" signature="308:314" ph="..." />
+                <marker date="1542747415783" expanded="true" signature="1070:1324" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageobjects/basepage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="187">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipfile">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/values/strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-start-column="12" selection-end-column="38" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -135,9 +164,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
-    <option name="y" value="61" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="383" />
+    <option name="y" value="298" />
     <option name="width" value="1153" />
     <option name="height" value="629" />
   </component>
@@ -149,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,7 +205,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -266,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542293975204</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="181115.2 commit add pipfile?">
+      <created>1542294887961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542294887961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -279,22 +315,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="61" width="1153" height="629" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1216" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912435" visible="true" weight="0.3542601" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912435" visible="true" weight="0.18440464" />
       <window_info id="Structure" order="1" sideWeight="0.50087565" side_tool="true" weight="0.24968395" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.44035876" weight="0.4305835" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.44035876" weight="0.4298893" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49894625" weight="0.32841328" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49775785" visible="true" weight="0.3279678" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49775785" weight="0.150369" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" weight="0.32841328" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50224215" side_tool="true" weight="0.3279678" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49479166" weight="0.4279141" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49479166" weight="0.42712176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -333,20 +370,44 @@
     <MESSAGE value="add saucedemo project" />
     <MESSAGE value="181114 commit" />
     <MESSAGE value="181115 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="181115 commit" />
+    <MESSAGE value="181115.2 commit add pipfile?" />
+    <option name="LAST_COMMIT_MESSAGE" value="181115.2 commit add pipfile?" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pageobjects/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/webdriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state>
+          <caret selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/values/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testcases/test_saucedemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
             <marker date="1542221219899" expanded="true" signature="160:504" ph="..." />
@@ -356,32 +417,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/values/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pageobjects/loginscreen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="26" column="86" lean-forward="true" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
-            <marker date="1542230273286" expanded="true" signature="308:309" ph="..." />
-            <marker date="1542230273286" expanded="true" signature="308:314" ph="..." />
-            <marker date="1542230273286" expanded="true" signature="1130:1384" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobjects/basepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <marker date="1542747415783" expanded="true" signature="308:309" ph="..." />
+            <marker date="1542747415783" expanded="true" signature="308:314" ph="..." />
+            <marker date="1542747415783" expanded="true" signature="1070:1324" ph="..." />
           </folding>
         </state>
       </provider>
