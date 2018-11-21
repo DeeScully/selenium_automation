@@ -38,6 +38,9 @@ class TestAllApps(unittest.TestCase):
     def tearDown(self):
         self.driver.instance.quit()
 
+"""to gen report run tests: py -m pytest ./testcases/smoke_tests.py --alluredir ./results
+then allure serve ./results/
+"""
 
 if __name__ == '__main__':
     unittest.main()
